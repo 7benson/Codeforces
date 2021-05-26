@@ -116,6 +116,22 @@
     ],
     "timestamp": "May/26/2021 18:41"
   },
+  "CF117433521": {
+    "contest_id": 617,
+    "language": "GNU C++14",
+    "path": "codeforces\\617\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Elephant",
+    "problem_url": "https://codeforces.com/contest/617/problem/A",
+    "submission_id": "CF117433521",
+    "submission_url": "https://codeforces.com/contest/617/submission/117433521",
+    "tags": [
+      "math",
+      "*800"
+    ],
+    "timestamp": "May/26/2021 23:02"
+  },
   "CF117436181": {
     "contest_id": 116,
     "language": "GNU C++14",
