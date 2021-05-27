@@ -12,6 +12,7 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
+8 | [B - Drinks](https://codeforces.com/contest/200/problem/B) | [GNU C++14](./codeforces/200/B.cpp) | `implementation` `math` `*800` | May/27/2021 20:15 | 
 7 | [A - Petya and Strings](https://codeforces.com/contest/112/problem/A) | [GNU C++14](./codeforces/112/A.cpp) | `implementation` `strings` `*800` | May/26/2021 18:41 | 
 6 | [A - Bit++](https://codeforces.com/contest/282/problem/A) | [GNU C++14](./codeforces/282/A.cpp) | `implementation` `*800` | May/26/2021 18:24 | 
 5 | [A - Domino piling](https://codeforces.com/contest/50/problem/A) | [GNU C++14](./codeforces/50/A.cpp) | `greedy` `math` `*800` | May/26/2021 18:17 | 
