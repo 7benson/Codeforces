@@ -619,6 +619,22 @@
     ],
     "timestamp": "May/28/2021 17:55"
   },
+  "CF117704239": {
+    "contest_id": 1526,
+    "language": "GNU C++14",
+    "path": "codeforces\\1526\\C2.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C2",
+    "problem_name": "Potions (Hard Version)",
+    "problem_url": "https://codeforces.com/contest/1526/problem/C2",
+    "submission_id": "CF117704239",
+    "submission_url": "https://codeforces.com/contest/1526/submission/117704239",
+    "tags": [
+      "data structures",
+      "greedy"
+    ],
+    "timestamp": "May/29/2021 02:01"
+  },
   "CF117704674": {
     "contest_id": 228,
     "language": "GNU C++14",
