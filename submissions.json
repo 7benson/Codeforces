@@ -619,6 +619,22 @@
     ],
     "timestamp": "May/28/2021 17:55"
   },
+  "CF117771980": {
+    "contest_id": 572,
+    "language": "GNU C++17 (64)",
+    "path": "codeforces\\572\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Arrays",
+    "problem_url": "https://codeforces.com/contest/572/problem/A",
+    "submission_id": "CF117771980",
+    "submission_url": "https://codeforces.com/contest/572/submission/117771980",
+    "tags": [
+      "sortings",
+      "*900"
+    ],
+    "timestamp": "May/29/2021 17:57"
+  },
   "CF117774084": {
     "contest_id": 670,
     "language": "GNU C++17 (64)",
