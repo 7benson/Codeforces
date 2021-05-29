@@ -619,6 +619,24 @@
     ],
     "timestamp": "May/28/2021 17:55"
   },
+  "CF117791936": {
+    "contest_id": 496,
+    "language": "GNU C++14",
+    "path": "codeforces\\496\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Minimum Difficulty",
+    "problem_url": "https://codeforces.com/contest/496/problem/A",
+    "submission_id": "CF117791936",
+    "submission_url": "https://codeforces.com/contest/496/submission/117791936",
+    "tags": [
+      "brute force",
+      "implementation",
+      "math",
+      "*900"
+    ],
+    "timestamp": "May/29/2021 21:17"
+  },
   "CF117792933": {
     "contest_id": 999,
     "language": "GNU C++14",
