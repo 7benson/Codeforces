@@ -12,12 +12,13 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-61 | [B - Square?](https://codeforces.com/contest/1351/problem/B) | [GNU C++14](./codeforces/1351/B.cpp) | `brute force` `implementation` `math` `*900` | May/30/2021 02:11 | 
-60 | [A - Triangle](https://codeforces.com/contest/6/problem/A) | [GNU C++14](./codeforces/6/A.cpp) | `brute force` `geometry` `*900` | May/30/2021 02:02 | 
-59 | [A - Arya and Bran](https://codeforces.com/contest/839/problem/A) | [GNU C++14](./codeforces/839/A.cpp) | `implementation` `*900` | May/30/2021 01:29 | 
-58 | [A - Beru-taxi](https://codeforces.com/contest/706/problem/A) | [GNU C++14](./codeforces/706/A.cpp) | `brute force` `geometry` `implementation` `*900` | May/30/2021 01:18 | 
-57 | [A - Contest for Robots](https://codeforces.com/contest/1321/problem/A) | [GNU C++14](./codeforces/1321/A.cpp) | `greedy` `*900` | May/30/2021 01:05 | 
-56 | [A - Important Exam](https://codeforces.com/contest/1201/problem/A) | [GNU C++14](./codeforces/1201/A.cpp) | `implementation` `strings` `*900` | May/30/2021 00:48 | 
+62 | [B - Square?](https://codeforces.com/contest/1351/problem/B) | [GNU C++14](./codeforces/1351/B.cpp) | `brute force` `implementation` `math` `*900` | May/30/2021 02:11 | 
+61 | [A - Triangle](https://codeforces.com/contest/6/problem/A) | [GNU C++14](./codeforces/6/A.cpp) | `brute force` `geometry` `*900` | May/30/2021 02:02 | 
+60 | [A - Arya and Bran](https://codeforces.com/contest/839/problem/A) | [GNU C++14](./codeforces/839/A.cpp) | `implementation` `*900` | May/30/2021 01:29 | 
+59 | [A - Beru-taxi](https://codeforces.com/contest/706/problem/A) | [GNU C++14](./codeforces/706/A.cpp) | `brute force` `geometry` `implementation` `*900` | May/30/2021 01:18 | 
+58 | [A - Contest for Robots](https://codeforces.com/contest/1321/problem/A) | [GNU C++14](./codeforces/1321/A.cpp) | `greedy` `*900` | May/30/2021 01:05 | 
+57 | [A - Important Exam](https://codeforces.com/contest/1201/problem/A) | [GNU C++14](./codeforces/1201/A.cpp) | `implementation` `strings` `*900` | May/30/2021 00:48 | 
+56 | [B - Letters Rearranging](https://codeforces.com/contest/1093/problem/B) | [GNU C++14](./codeforces/1093/B.cpp) | `constructive algorithms` `greedy` `sortings` `strings` `*900` | May/30/2021 00:14 | 
 55 | [B - Elimination](https://codeforces.com/contest/1445/problem/B) | [GNU C++14](./codeforces/1445/B.cpp) | `greedy` `math` `*900` | May/29/2021 21:58 | 
 54 | [A - Forgetting Things](https://codeforces.com/contest/1225/problem/A) | [GNU C++14](./codeforces/1225/A.cpp) | `math` `*900` | May/29/2021 21:47 | 
 53 | [B - Reversing Encryption](https://codeforces.com/contest/999/problem/B) | [GNU C++14](./codeforces/999/B.cpp) | `implementation` `*900` | May/29/2021 21:27 | 
