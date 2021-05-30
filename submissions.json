@@ -1078,6 +1078,24 @@
     ],
     "timestamp": "May/30/2021 02:11"
   },
+  "CF117858515": {
+    "contest_id": 1197,
+    "language": "GNU C++14",
+    "path": "codeforces\\1197\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "DIY Wooden Ladder",
+    "problem_url": "https://codeforces.com/contest/1197/problem/A",
+    "submission_id": "CF117858515",
+    "submission_url": "https://codeforces.com/contest/1197/submission/117858515",
+    "tags": [
+      "greedy",
+      "math",
+      "sortings",
+      "*900"
+    ],
+    "timestamp": "May/30/2021 16:14"
+  },
   "CF117859230": {
     "contest_id": 1106,
     "language": "GNU C++14",
