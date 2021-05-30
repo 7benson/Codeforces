@@ -1167,6 +1167,23 @@
     ],
     "timestamp": "May/30/2021 20:01"
   },
+  "CF117932156": {
+    "contest_id": 616,
+    "language": "GNU C++14",
+    "path": "codeforces\\616\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Comparing Two Long Integers",
+    "problem_url": "https://codeforces.com/contest/616/problem/A",
+    "submission_id": "CF117932156",
+    "submission_url": "https://codeforces.com/contest/616/submission/117932156",
+    "tags": [
+      "implementation",
+      "strings",
+      "*900"
+    ],
+    "timestamp": "May/31/2021 01:08"
+  },
   "CF117933165": {
     "contest_id": 94,
     "language": "GNU C++14",
