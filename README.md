@@ -12,9 +12,10 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-67 | [A - Death Note](https://codeforces.com/contest/1016/problem/A) | [GNU C++14](./codeforces/1016/A.cpp) | `greedy` `implementation` `math` `*900` | May/30/2021 20:01 | 
-66 | [A - Is it rated?](https://codeforces.com/contest/807/problem/A) | [GNU C++14](./codeforces/807/A.cpp) | `implementation` `sortings` `*900` | May/30/2021 17:26 | 
-65 | [A - Silent Classroom](https://codeforces.com/contest/1166/problem/A) | [GNU C++14](./codeforces/1166/A.cpp) | `combinatorics` `greedy` `*900` | May/30/2021 16:44 | 
+68 | [A - Death Note](https://codeforces.com/contest/1016/problem/A) | [GNU C++14](./codeforces/1016/A.cpp) | `greedy` `implementation` `math` `*900` | May/30/2021 20:01 | 
+67 | [A - Is it rated?](https://codeforces.com/contest/807/problem/A) | [GNU C++14](./codeforces/807/A.cpp) | `implementation` `sortings` `*900` | May/30/2021 17:26 | 
+66 | [A - Silent Classroom](https://codeforces.com/contest/1166/problem/A) | [GNU C++14](./codeforces/1166/A.cpp) | `combinatorics` `greedy` `*900` | May/30/2021 16:44 | 
+65 | [C - Lunar New Year and Number Division](https://codeforces.com/contest/1106/problem/C) | [GNU C++14](./codeforces/1106/C.cpp) | `greedy` `implementation` `math` `sortings` `*900` | May/30/2021 16:23 | 
 64 | [B - Square?](https://codeforces.com/contest/1351/problem/B) | [GNU C++14](./codeforces/1351/B.cpp) | `brute force` `implementation` `math` `*900` | May/30/2021 02:11 | 
 63 | [A - Triangle](https://codeforces.com/contest/6/problem/A) | [GNU C++14](./codeforces/6/A.cpp) | `brute force` `geometry` `*900` | May/30/2021 02:02 | 
 62 | [A - Arya and Bran](https://codeforces.com/contest/839/problem/A) | [GNU C++14](./codeforces/839/A.cpp) | `implementation` `*900` | May/30/2021 01:29 | 
