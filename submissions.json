@@ -1251,6 +1251,23 @@
     ],
     "timestamp": "May/31/2021 01:26"
   },
+  "CF118135730": {
+    "contest_id": 747,
+    "language": "GNU C++17",
+    "path": "codeforces\\747\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Mammoth's Genome Decoding",
+    "problem_url": "https://codeforces.com/contest/747/problem/B",
+    "submission_id": "CF118135730",
+    "submission_url": "https://codeforces.com/contest/747/submission/118135730",
+    "tags": [
+      "implementation",
+      "strings",
+      "*900"
+    ],
+    "timestamp": "Jun/02/2021 01:33"
+  },
   "CF118137786": {
     "contest_id": 653,
     "language": "GNU C++17",
