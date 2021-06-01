@@ -1251,6 +1251,22 @@
     ],
     "timestamp": "May/31/2021 01:26"
   },
+  "CF118133738": {
+    "contest_id": 808,
+    "language": "GNU C++17",
+    "path": "codeforces\\808\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Lucky Year",
+    "problem_url": "https://codeforces.com/contest/808/problem/A",
+    "submission_id": "CF118133738",
+    "submission_url": "https://codeforces.com/contest/808/submission/118133738",
+    "tags": [
+      "implementation",
+      "*900"
+    ],
+    "timestamp": "Jun/02/2021 00:52"
+  },
   "CF118134450": {
     "contest_id": 622,
     "language": "GNU C++17",
