@@ -1251,6 +1251,22 @@
     ],
     "timestamp": "May/31/2021 01:26"
   },
+  "CF118134450": {
+    "contest_id": 622,
+    "language": "GNU C++17",
+    "path": "codeforces\\622\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "The Time",
+    "problem_url": "https://codeforces.com/contest/622/problem/B",
+    "submission_id": "CF118134450",
+    "submission_url": "https://codeforces.com/contest/622/submission/118134450",
+    "tags": [
+      "implementation",
+      "*900"
+    ],
+    "timestamp": "Jun/02/2021 01:05"
+  },
   "CF118135143": {
     "contest_id": 868,
     "language": "GNU C++17",
