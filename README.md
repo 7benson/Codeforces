@@ -12,7 +12,8 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-75 | [A - Perfect Squares](https://codeforces.com/contest/914/problem/A) | [GNU C++17](./codeforces/914/A.cpp) | `brute force` `implementation` `math` `*900` | Jun/02/2021 16:58 | 
+76 | [A - Perfect Squares](https://codeforces.com/contest/914/problem/A) | [GNU C++17](./codeforces/914/A.cpp) | `brute force` `implementation` `math` `*900` | Jun/02/2021 16:58 | 
+75 | [A - Pineapple Incident](https://codeforces.com/contest/697/problem/A) | [GNU C++17](./codeforces/697/A.cpp) | `implementation` `math` `*900` | Jun/02/2021 16:13 | 
 74 | [A - Restoring Password](https://codeforces.com/contest/94/problem/A) | [GNU C++14](./codeforces/94/A.cpp) | `implementation` `strings` `*900` | May/31/2021 01:26 | 
 73 | [A - Comparing Two Long Integers](https://codeforces.com/contest/616/problem/A) | [GNU C++14](./codeforces/616/A.cpp) | `implementation` `strings` `*900` | May/31/2021 01:08 | 
 72 | [B - Squares](https://codeforces.com/contest/263/problem/B) | [GNU C++14](./codeforces/263/B.cpp) | `greedy` `implementation` `sortings` `*900` | May/31/2021 01:01 | 
