@@ -12,24 +12,25 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-106 | [A - Dragons](https://codeforces.com/contest/230/problem/A) | [GNU C++14](./codeforces/230/A.cpp) | `greedy` `sortings` `*1000` | Jun/03/2021 17:58 | 
-105 | [A - Expression](https://codeforces.com/contest/479/problem/A) | [GNU C++14](./codeforces/479/A.cpp) | `brute force` `math` `*1000` | Jun/03/2021 17:20 | 
-104 | [A - cAPS lOCK](https://codeforces.com/contest/131/problem/A) | [GNU C++14](./codeforces/131/A.cpp) | `implementation` `strings` `*1000` | Jun/03/2021 17:15 | 
-103 | [A - Lucky Division](https://codeforces.com/contest/122/problem/A) | [GNU C++14](./codeforces/122/A.cpp) | `brute force` `number theory` `*1000` | Jun/03/2021 16:57 | 
-102 | [A - Chat room](https://codeforces.com/contest/58/problem/A) | [GNU C++14](./codeforces/58/A.cpp) | `greedy` `strings` `*1000` | Jun/03/2021 16:48 | 
-101 | [A - Young Physicist](https://codeforces.com/contest/69/problem/A) | [GNU C++14](./codeforces/69/A.cpp) | `implementation` `math` `*1000` | Jun/03/2021 16:45 | 
-100 | [A - String Task](https://codeforces.com/contest/118/problem/A) | [GNU C++14](./codeforces/118/A.cpp) | `implementation` `strings` `*1000` | Jun/03/2021 16:40 | 
-99 | [A - Theatre Square](https://codeforces.com/contest/1/problem/A) | [GNU C++14](./codeforces/1/A.cpp) | `math` `*1000` | Jun/03/2021 16:21 | 
-98 | [A - Hongcow Learns the Cyclic Shift](https://codeforces.com/contest/745/problem/A) | [GNU C++17](./codeforces/745/A.cpp) | `implementation` `strings` `*900` | Jun/03/2021 01:22 | 
-97 | [A - Sinking Ship](https://codeforces.com/contest/63/problem/A) | [GNU C++17](./codeforces/63/A.cpp) | `implementation` `sortings` `strings` `*900` | Jun/03/2021 01:10 | 
-96 | [A - Jamie and Alarm Snooze](https://codeforces.com/contest/916/problem/A) | [GNU C++17](./codeforces/916/A.cpp) | `brute force` `implementation` `math` `*900` | Jun/03/2021 00:47 | 
-95 | [B - Valued Keys](https://codeforces.com/contest/801/problem/B) | [GNU C++17](./codeforces/801/B.cpp) | `constructive algorithms` `greedy` `strings` `*900` | Jun/03/2021 00:11 | 
-94 | [A - An abandoned sentiment from past](https://codeforces.com/contest/814/problem/A) | [GNU C++17](./codeforces/814/A.cpp) | `constructive algorithms` `greedy` `implementation` `sortings` `*900` | Jun/02/2021 23:36 | 
-93 | [A - New Year and Days](https://codeforces.com/contest/611/problem/A) | [GNU C++17](./codeforces/611/A.cpp) | `implementation` `*900` | Jun/02/2021 23:29 | 
-92 | [B - Radio Station](https://codeforces.com/contest/918/problem/B) | [GNU C++17](./codeforces/918/B.cpp) | `implementation` `strings` `*900` | Jun/02/2021 23:24 | 
-91 | [A - Greed](https://codeforces.com/contest/892/problem/A) | [GNU C++17](./codeforces/892/A.cpp) | `greedy` `implementation` `*900` | Jun/02/2021 23:13 | 
-90 | [A - Toy Army](https://codeforces.com/contest/84/problem/A) | [GNU C++17](./codeforces/84/A.cpp) | `math` `number theory` `*900` | Jun/02/2021 23:05 | 
-89 | [A - Kyoya and Photobooks](https://codeforces.com/contest/554/problem/A) | [GNU C++17](./codeforces/554/A.cpp) | `brute force` `math` `strings` `*900` | Jun/02/2021 22:59 | 
+107 | [A - Dragons](https://codeforces.com/contest/230/problem/A) | [GNU C++14](./codeforces/230/A.cpp) | `greedy` `sortings` `*1000` | Jun/03/2021 17:58 | 
+106 | [A - Expression](https://codeforces.com/contest/479/problem/A) | [GNU C++14](./codeforces/479/A.cpp) | `brute force` `math` `*1000` | Jun/03/2021 17:20 | 
+105 | [A - cAPS lOCK](https://codeforces.com/contest/131/problem/A) | [GNU C++14](./codeforces/131/A.cpp) | `implementation` `strings` `*1000` | Jun/03/2021 17:15 | 
+104 | [A - Lucky Division](https://codeforces.com/contest/122/problem/A) | [GNU C++14](./codeforces/122/A.cpp) | `brute force` `number theory` `*1000` | Jun/03/2021 16:57 | 
+103 | [A - Chat room](https://codeforces.com/contest/58/problem/A) | [GNU C++14](./codeforces/58/A.cpp) | `greedy` `strings` `*1000` | Jun/03/2021 16:48 | 
+102 | [A - Young Physicist](https://codeforces.com/contest/69/problem/A) | [GNU C++14](./codeforces/69/A.cpp) | `implementation` `math` `*1000` | Jun/03/2021 16:45 | 
+101 | [A - String Task](https://codeforces.com/contest/118/problem/A) | [GNU C++14](./codeforces/118/A.cpp) | `implementation` `strings` `*1000` | Jun/03/2021 16:40 | 
+100 | [A - Theatre Square](https://codeforces.com/contest/1/problem/A) | [GNU C++14](./codeforces/1/A.cpp) | `math` `*1000` | Jun/03/2021 16:21 | 
+99 | [A - Hongcow Learns the Cyclic Shift](https://codeforces.com/contest/745/problem/A) | [GNU C++17](./codeforces/745/A.cpp) | `implementation` `strings` `*900` | Jun/03/2021 01:22 | 
+98 | [A - Sinking Ship](https://codeforces.com/contest/63/problem/A) | [GNU C++17](./codeforces/63/A.cpp) | `implementation` `sortings` `strings` `*900` | Jun/03/2021 01:10 | 
+97 | [A - Jamie and Alarm Snooze](https://codeforces.com/contest/916/problem/A) | [GNU C++17](./codeforces/916/A.cpp) | `brute force` `implementation` `math` `*900` | Jun/03/2021 00:47 | 
+96 | [B - Valued Keys](https://codeforces.com/contest/801/problem/B) | [GNU C++17](./codeforces/801/B.cpp) | `constructive algorithms` `greedy` `strings` `*900` | Jun/03/2021 00:11 | 
+95 | [A - An abandoned sentiment from past](https://codeforces.com/contest/814/problem/A) | [GNU C++17](./codeforces/814/A.cpp) | `constructive algorithms` `greedy` `implementation` `sortings` `*900` | Jun/02/2021 23:36 | 
+94 | [A - New Year and Days](https://codeforces.com/contest/611/problem/A) | [GNU C++17](./codeforces/611/A.cpp) | `implementation` `*900` | Jun/02/2021 23:29 | 
+93 | [B - Radio Station](https://codeforces.com/contest/918/problem/B) | [GNU C++17](./codeforces/918/B.cpp) | `implementation` `strings` `*900` | Jun/02/2021 23:24 | 
+92 | [A - Greed](https://codeforces.com/contest/892/problem/A) | [GNU C++17](./codeforces/892/A.cpp) | `greedy` `implementation` `*900` | Jun/02/2021 23:13 | 
+91 | [A - Toy Army](https://codeforces.com/contest/84/problem/A) | [GNU C++17](./codeforces/84/A.cpp) | `math` `number theory` `*900` | Jun/02/2021 23:05 | 
+90 | [A - Kyoya and Photobooks](https://codeforces.com/contest/554/problem/A) | [GNU C++17](./codeforces/554/A.cpp) | `brute force` `math` `strings` `*900` | Jun/02/2021 22:59 | 
+89 | [A - Wizards' Duel](https://codeforces.com/contest/591/problem/A) | [GNU C++17](./codeforces/591/A.cpp) | `implementation` `math` `*900` | Jun/02/2021 22:39 | 
 88 | [A - Perfect Squares](https://codeforces.com/contest/914/problem/A) | [GNU C++17](./codeforces/914/A.cpp) | `brute force` `implementation` `math` `*900` | Jun/02/2021 16:58 | 
 87 | [A - Pineapple Incident](https://codeforces.com/contest/697/problem/A) | [GNU C++17](./codeforces/697/A.cpp) | `implementation` `math` `*900` | Jun/02/2021 16:13 | 
 86 | [A - Marks](https://codeforces.com/contest/152/problem/A) | [GNU C++17](./codeforces/152/A.cpp) | `implementation` `*900` | Jun/02/2021 15:58 | 
