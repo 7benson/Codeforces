@@ -12,10 +12,11 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-92 | [A - Dragons](https://codeforces.com/contest/230/problem/A) | [GNU C++14](./codeforces/230/A.cpp) | `greedy` `sortings` `*1000` | Jun/03/2021 17:58 | 
-91 | [A - Expression](https://codeforces.com/contest/479/problem/A) | [GNU C++14](./codeforces/479/A.cpp) | `brute force` `math` `*1000` | Jun/03/2021 17:20 | 
-90 | [A - cAPS lOCK](https://codeforces.com/contest/131/problem/A) | [GNU C++14](./codeforces/131/A.cpp) | `implementation` `strings` `*1000` | Jun/03/2021 17:15 | 
-89 | [A - Lucky Division](https://codeforces.com/contest/122/problem/A) | [GNU C++14](./codeforces/122/A.cpp) | `brute force` `number theory` `*1000` | Jun/03/2021 16:57 | 
+93 | [A - Dragons](https://codeforces.com/contest/230/problem/A) | [GNU C++14](./codeforces/230/A.cpp) | `greedy` `sortings` `*1000` | Jun/03/2021 17:58 | 
+92 | [A - Expression](https://codeforces.com/contest/479/problem/A) | [GNU C++14](./codeforces/479/A.cpp) | `brute force` `math` `*1000` | Jun/03/2021 17:20 | 
+91 | [A - cAPS lOCK](https://codeforces.com/contest/131/problem/A) | [GNU C++14](./codeforces/131/A.cpp) | `implementation` `strings` `*1000` | Jun/03/2021 17:15 | 
+90 | [A - Lucky Division](https://codeforces.com/contest/122/problem/A) | [GNU C++14](./codeforces/122/A.cpp) | `brute force` `number theory` `*1000` | Jun/03/2021 16:57 | 
+89 | [A - Chat room](https://codeforces.com/contest/58/problem/A) | [GNU C++14](./codeforces/58/A.cpp) | `greedy` `strings` `*1000` | Jun/03/2021 16:48 | 
 88 | [A - Perfect Squares](https://codeforces.com/contest/914/problem/A) | [GNU C++17](./codeforces/914/A.cpp) | `brute force` `implementation` `math` `*900` | Jun/02/2021 16:58 | 
 87 | [A - Pineapple Incident](https://codeforces.com/contest/697/problem/A) | [GNU C++17](./codeforces/697/A.cpp) | `implementation` `math` `*900` | Jun/02/2021 16:13 | 
 86 | [A - Marks](https://codeforces.com/contest/152/problem/A) | [GNU C++17](./codeforces/152/A.cpp) | `implementation` `*900` | Jun/02/2021 15:58 | 
