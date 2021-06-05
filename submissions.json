@@ -2024,6 +2024,22 @@
     ],
     "timestamp": "Jun/05/2021 16:12"
   },
+  "CF118532452": {
+    "contest_id": 37,
+    "language": "GNU C++14",
+    "path": "codeforces\\37\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Towers",
+    "problem_url": "https://codeforces.com/contest/37/problem/A",
+    "submission_id": "CF118532452",
+    "submission_url": "https://codeforces.com/contest/37/submission/118532452",
+    "tags": [
+      "sortings",
+      "*1000"
+    ],
+    "timestamp": "Jun/05/2021 23:29"
+  },
   "CF118533038": {
     "contest_id": 1419,
     "language": "GNU C++14",
