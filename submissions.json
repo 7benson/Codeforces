@@ -1956,6 +1956,23 @@
     ],
     "timestamp": "Jun/05/2021 01:07"
   },
+  "CF118487292": {
+    "contest_id": 1141,
+    "language": "GNU C++14",
+    "path": "codeforces\\1141\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Game 23",
+    "problem_url": "https://codeforces.com/contest/1141/problem/A",
+    "submission_id": "CF118487292",
+    "submission_url": "https://codeforces.com/contest/1141/submission/118487292",
+    "tags": [
+      "implementation",
+      "math",
+      "*1000"
+    ],
+    "timestamp": "Jun/05/2021 14:18"
+  },
   "CF118496314": {
     "contest_id": 1490,
     "language": "GNU C++14",
