@@ -2387,6 +2387,22 @@
     ],
     "timestamp": "Jun/06/2021 16:24"
   },
+  "CF118585963": {
+    "contest_id": 1204,
+    "language": "GNU C++14",
+    "path": "codeforces\\1204\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "BowWow and the Timetable",
+    "problem_url": "https://codeforces.com/contest/1204/problem/A",
+    "submission_id": "CF118585963",
+    "submission_url": "https://codeforces.com/contest/1204/submission/118585963",
+    "tags": [
+      "math",
+      "*1000"
+    ],
+    "timestamp": "Jun/06/2021 17:20"
+  },
   "CF118593741": {
     "contest_id": 1257,
     "language": "GNU C++14",
