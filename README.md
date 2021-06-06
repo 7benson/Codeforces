@@ -12,7 +12,8 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-135 | [A - k-String](https://codeforces.com/contest/219/problem/A) | [GNU C++14](./codeforces/219/A.cpp) | `implementation` `strings` `*1000` | Jun/06/2021 16:24 | 
+136 | [A - k-String](https://codeforces.com/contest/219/problem/A) | [GNU C++14](./codeforces/219/A.cpp) | `implementation` `strings` `*1000` | Jun/06/2021 16:24 | 
+135 | [A - Drazil and Date](https://codeforces.com/contest/515/problem/A) | [GNU C++14](./codeforces/515/A.cpp) | `math` `*1000` | Jun/06/2021 15:57 | 
 134 | [B1 - Books Exchange (easy version)](https://codeforces.com/contest/1249/problem/B1) | [GNU C++14](./codeforces/1249/B1.cpp) | `dsu` `math` `*1000` | Jun/06/2021 00:54 | 
 133 | [A - Jeff and Digits](https://codeforces.com/contest/352/problem/A) | [GNU C++14](./codeforces/352/A.cpp) | `brute force` `implementation` `math` `*1000` | Jun/06/2021 00:43 | 
 132 | [C - Double-ended Strings](https://codeforces.com/contest/1506/problem/C) | [GNU C++14](./codeforces/1506/C.cpp) | `brute force` `implementation` `strings` `*1000` | Jun/06/2021 00:23 | 
