@@ -2722,5 +2722,22 @@
       "*1000"
     ],
     "timestamp": "Jun/08/2021 19:05"
+  },
+  "CF118827914": {
+    "contest_id": 272,
+    "language": "GNU C++14",
+    "path": "codeforces\\272\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Dima and Friends",
+    "problem_url": "https://codeforces.com/contest/272/problem/A",
+    "submission_id": "CF118827914",
+    "submission_url": "https://codeforces.com/contest/272/submission/118827914",
+    "tags": [
+      "implementation",
+      "math",
+      "*1000"
+    ],
+    "timestamp": "Jun/08/2021 22:44"
   }
 }
