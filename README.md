@@ -12,12 +12,13 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-174 | [A - Noldbach problem](https://codeforces.com/contest/17/problem/A) | [GNU C++14](./codeforces/17/A.cpp) | `brute force` `math` `number theory` `*1000` | Jun/09/2021 16:11 | 
-173 | [B - Inbox (100500)](https://codeforces.com/contest/465/problem/B) | [GNU C++14](./codeforces/465/B.cpp) | `implementation` `*1000` | Jun/09/2021 15:50 | 
-172 | [B - Hamster Farm](https://codeforces.com/contest/939/problem/B) | [GNU C++14](./codeforces/939/B.cpp) | `implementation` `*1000` | Jun/09/2021 15:34 | 
-171 | [A - King Escape](https://codeforces.com/contest/1033/problem/A) | [GNU C++14](./codeforces/1033/A.cpp) | `dfs and similar` `graphs` `implementation` `*1000` | Jun/09/2021 15:22 | 
-170 | [B - Game of Robots](https://codeforces.com/contest/670/problem/B) | [GNU C++14](./codeforces/670/B.cpp) | `implementation` `*1000` | Jun/09/2021 11:32 | 
-169 | [A - Function Height](https://codeforces.com/contest/1036/problem/A) | [GNU C++14](./codeforces/1036/A.cpp) | `math` `*1000` | Jun/09/2021 10:48 | 
+175 | [A - Noldbach problem](https://codeforces.com/contest/17/problem/A) | [GNU C++14](./codeforces/17/A.cpp) | `brute force` `math` `number theory` `*1000` | Jun/09/2021 16:11 | 
+174 | [B - Inbox (100500)](https://codeforces.com/contest/465/problem/B) | [GNU C++14](./codeforces/465/B.cpp) | `implementation` `*1000` | Jun/09/2021 15:50 | 
+173 | [B - Hamster Farm](https://codeforces.com/contest/939/problem/B) | [GNU C++14](./codeforces/939/B.cpp) | `implementation` `*1000` | Jun/09/2021 15:34 | 
+172 | [A - King Escape](https://codeforces.com/contest/1033/problem/A) | [GNU C++14](./codeforces/1033/A.cpp) | `dfs and similar` `graphs` `implementation` `*1000` | Jun/09/2021 15:22 | 
+171 | [B - Game of Robots](https://codeforces.com/contest/670/problem/B) | [GNU C++14](./codeforces/670/B.cpp) | `implementation` `*1000` | Jun/09/2021 11:32 | 
+170 | [A - Function Height](https://codeforces.com/contest/1036/problem/A) | [GNU C++14](./codeforces/1036/A.cpp) | `math` `*1000` | Jun/09/2021 10:48 | 
+169 | [A - Minimum Integer](https://codeforces.com/contest/1101/problem/A) | [GNU C++14](./codeforces/1101/A.cpp) | `math` `*1000` | Jun/09/2021 00:54 | 
 168 | [B - Different is Good](https://codeforces.com/contest/672/problem/B) | [GNU C++14](./codeforces/672/B.cpp) | `constructive algorithms` `implementation` `strings` `*1000` | Jun/09/2021 00:38 | 
 167 | [A - Currency System in Geraldion](https://codeforces.com/contest/560/problem/A) | [GNU C++14](./codeforces/560/A.cpp) | `implementation` `sortings` `*1000` | Jun/09/2021 00:00 | 
 166 | [A - Fake NP](https://codeforces.com/contest/805/problem/A) | [GNU C++14](./codeforces/805/A.cpp) | `greedy` `math` `*1000` | Jun/08/2021 23:49 | 
