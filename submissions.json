@@ -2672,5 +2672,21 @@
       "*1000"
     ],
     "timestamp": "Jun/07/2021 18:33"
+  },
+  "CF118810542": {
+    "contest_id": 1077,
+    "language": "GNU C++14",
+    "path": "codeforces\\1077\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Disturbed People",
+    "problem_url": "https://codeforces.com/contest/1077/problem/B",
+    "submission_id": "CF118810542",
+    "submission_url": "https://codeforces.com/contest/1077/submission/118810542",
+    "tags": [
+      "greedy",
+      "*1000"
+    ],
+    "timestamp": "Jun/08/2021 19:05"
   }
 }
