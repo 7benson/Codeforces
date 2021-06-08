@@ -12,8 +12,9 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-162 | [A - Dima and Friends](https://codeforces.com/contest/272/problem/A) | [GNU C++14](./codeforces/272/A.cpp) | `implementation` `math` `*1000` | Jun/08/2021 22:44 | 
-161 | [B - Valerii Against Everyone](https://codeforces.com/contest/1438/problem/B) | [GNU C++14](./codeforces/1438/B.cpp) | `constructive algorithms` `data structures` `greedy` `sortings` `*1000` | Jun/08/2021 22:35 | 
+163 | [A - Dima and Friends](https://codeforces.com/contest/272/problem/A) | [GNU C++14](./codeforces/272/A.cpp) | `implementation` `math` `*1000` | Jun/08/2021 22:44 | 
+162 | [B - Valerii Against Everyone](https://codeforces.com/contest/1438/problem/B) | [GNU C++14](./codeforces/1438/B.cpp) | `constructive algorithms` `data structures` `greedy` `sortings` `*1000` | Jun/08/2021 22:35 | 
+161 | [A - Candy Bags](https://codeforces.com/contest/334/problem/A) | [GNU C++14](./codeforces/334/A.cpp) | `implementation` `*1000` | Jun/08/2021 22:18 | 
 160 | [B - Disturbed People](https://codeforces.com/contest/1077/problem/B) | [GNU C++14](./codeforces/1077/B.cpp) | `greedy` `*1000` | Jun/08/2021 19:05 | 
 159 | [A - Broken Keyboard](https://codeforces.com/contest/1251/problem/A) | [GNU C++14](./codeforces/1251/A.cpp) | `brute force` `strings` `two pointers` `*1000` | Jun/08/2021 18:57 | 
 158 | [A - Grasshopper And the String](https://codeforces.com/contest/733/problem/A) | [GNU C++14](./codeforces/733/A.cpp) | `implementation` `*1000` | Jun/08/2021 17:48 | 
