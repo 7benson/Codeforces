@@ -12,8 +12,9 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-159 | [B - Disturbed People](https://codeforces.com/contest/1077/problem/B) | [GNU C++14](./codeforces/1077/B.cpp) | `greedy` `*1000` | Jun/08/2021 19:05 | 
-158 | [A - Broken Keyboard](https://codeforces.com/contest/1251/problem/A) | [GNU C++14](./codeforces/1251/A.cpp) | `brute force` `strings` `two pointers` `*1000` | Jun/08/2021 18:57 | 
+160 | [B - Disturbed People](https://codeforces.com/contest/1077/problem/B) | [GNU C++14](./codeforces/1077/B.cpp) | `greedy` `*1000` | Jun/08/2021 19:05 | 
+159 | [A - Broken Keyboard](https://codeforces.com/contest/1251/problem/A) | [GNU C++14](./codeforces/1251/A.cpp) | `brute force` `strings` `two pointers` `*1000` | Jun/08/2021 18:57 | 
+158 | [A - Grasshopper And the String](https://codeforces.com/contest/733/problem/A) | [GNU C++14](./codeforces/733/A.cpp) | `implementation` `*1000` | Jun/08/2021 17:48 | 
 157 | [B - Sport Mafia](https://codeforces.com/contest/1195/problem/B) | [GNU C++14](./codeforces/1195/B.cpp) | `binary search` `brute force` `math` `*1000` | Jun/07/2021 18:33 | 
 156 | [A - Circle of Students](https://codeforces.com/contest/1203/problem/A) | [GNU C++14](./codeforces/1203/A.cpp) | `implementation` `*1000` | Jun/07/2021 17:44 | 
 155 | [A - Petr and Book](https://codeforces.com/contest/139/problem/A) | [GNU C++14](./codeforces/139/A.cpp) | `implementation` `*1000` | Jun/07/2021 15:19 | 
