@@ -3008,6 +3008,24 @@
     ],
     "timestamp": "Jun/09/2021 17:14"
   },
+  "CF118913127": {
+    "contest_id": 777,
+    "language": "GNU C++14",
+    "path": "codeforces\\777\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Shell Game",
+    "problem_url": "https://codeforces.com/contest/777/problem/A",
+    "submission_id": "CF118913127",
+    "submission_url": "https://codeforces.com/contest/777/submission/118913127",
+    "tags": [
+      "constructive algorithms",
+      "implementation",
+      "math",
+      "*1000"
+    ],
+    "timestamp": "Jun/10/2021 00:14"
+  },
   "CF118914076": {
     "contest_id": 616,
     "language": "GNU C++14",
