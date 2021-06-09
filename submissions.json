@@ -3008,6 +3008,23 @@
     ],
     "timestamp": "Jun/09/2021 17:14"
   },
+  "CF118914763": {
+    "contest_id": 552,
+    "language": "GNU C++14",
+    "path": "codeforces\\552\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Vanya and Table",
+    "problem_url": "https://codeforces.com/contest/552/problem/A",
+    "submission_id": "CF118914763",
+    "submission_url": "https://codeforces.com/contest/552/submission/118914763",
+    "tags": [
+      "implementation",
+      "math",
+      "*1000"
+    ],
+    "timestamp": "Jun/10/2021 00:45"
+  },
   "CF118918212": {
     "contest_id": 158,
     "language": "GNU C++14",
