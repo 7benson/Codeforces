@@ -2975,5 +2975,21 @@
       "*1000"
     ],
     "timestamp": "Jun/09/2021 16:11"
+  },
+  "CF118881084": {
+    "contest_id": 886,
+    "language": "GNU C++14",
+    "path": "codeforces\\886\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "ACM ICPC",
+    "problem_url": "https://codeforces.com/contest/886/problem/A",
+    "submission_id": "CF118881084",
+    "submission_url": "https://codeforces.com/contest/886/submission/118881084",
+    "tags": [
+      "brute force",
+      "*1000"
+    ],
+    "timestamp": "Jun/09/2021 17:14"
   }
 }
