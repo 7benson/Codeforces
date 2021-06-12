@@ -3290,6 +3290,24 @@
     ],
     "timestamp": "Jun/12/2021 15:09"
   },
+  "CF119243619": {
+    "contest_id": 1355,
+    "language": "GNU C++14",
+    "path": "codeforces\\1355\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Sequence with Digits",
+    "problem_url": "https://codeforces.com/contest/1355/problem/A",
+    "submission_id": "CF119243619",
+    "submission_url": "https://codeforces.com/contest/1355/submission/119243619",
+    "tags": [
+      "brute force",
+      "implementation",
+      "math",
+      "*1200"
+    ],
+    "timestamp": "Jun/12/2021 17:43"
+  },
   "CF119247750": {
     "contest_id": 1334,
     "language": "GNU C++14",
