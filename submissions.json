@@ -3289,5 +3289,22 @@
       "*1200"
     ],
     "timestamp": "Jun/12/2021 15:09"
+  },
+  "CF119247750": {
+    "contest_id": 1334,
+    "language": "GNU C++14",
+    "path": "codeforces\\1334\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Level Statistics",
+    "problem_url": "https://codeforces.com/contest/1334/problem/A",
+    "submission_id": "CF119247750",
+    "submission_url": "https://codeforces.com/contest/1334/submission/119247750",
+    "tags": [
+      "implementation",
+      "math",
+      "*1200"
+    ],
+    "timestamp": "Jun/12/2021 18:42"
   }
 }
