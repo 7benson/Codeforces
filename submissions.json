@@ -3341,6 +3341,22 @@
     ],
     "timestamp": "Jun/12/2021 18:42"
   },
+  "CF119367062": {
+    "contest_id": 911,
+    "language": "GNU C++14",
+    "path": "codeforces\\911\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Nearest Minimums",
+    "problem_url": "https://codeforces.com/contest/911/problem/A",
+    "submission_id": "CF119367062",
+    "submission_url": "https://codeforces.com/contest/911/submission/119367062",
+    "tags": [
+      "implementation",
+      "*1100"
+    ],
+    "timestamp": "Jun/13/2021 22:14"
+  },
   "CF119379731": {
     "contest_id": 218,
     "language": "GNU C++14",
