@@ -3340,5 +3340,21 @@
       "*1200"
     ],
     "timestamp": "Jun/12/2021 18:42"
+  },
+  "CF119379731": {
+    "contest_id": 218,
+    "language": "GNU C++14",
+    "path": "codeforces\\218\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Airport",
+    "problem_url": "https://codeforces.com/contest/218/problem/B",
+    "submission_id": "CF119379731",
+    "submission_url": "https://codeforces.com/contest/218/submission/119379731",
+    "tags": [
+      "implementation",
+      "*1100"
+    ],
+    "timestamp": "Jun/13/2021 22:55"
   }
 }
