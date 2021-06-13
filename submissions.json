@@ -3524,6 +3524,24 @@
     ],
     "timestamp": "Jun/13/2021 22:55"
   },
+  "CF119397093": {
+    "contest_id": 525,
+    "language": "GNU C++14",
+    "path": "codeforces\\525\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Vitaliy and Pie",
+    "problem_url": "https://codeforces.com/contest/525/problem/A",
+    "submission_id": "CF119397093",
+    "submission_url": "https://codeforces.com/contest/525/submission/119397093",
+    "tags": [
+      "greedy",
+      "hashing",
+      "strings",
+      "*1100"
+    ],
+    "timestamp": "Jun/14/2021 00:03"
+  },
   "CF119399082": {
     "contest_id": 1042,
     "language": "GNU C++14",
