@@ -12,6 +12,7 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
+208 | [B - Unlucky Ticket](https://codeforces.com/contest/160/problem/B) | [GNU C++14](./codeforces/160/B.cpp) | `greedy` `sortings` `*1100` | Jun/14/2021 01:28 | 
 207 | [B - Airport](https://codeforces.com/contest/218/problem/B) | [GNU C++14](./codeforces/218/B.cpp) | `implementation` `*1100` | Jun/13/2021 22:55 | 
 206 | [A - Nearest Minimums](https://codeforces.com/contest/911/problem/A) | [GNU C++14](./codeforces/911/A.cpp) | `implementation` `*1100` | Jun/13/2021 22:14 | 
 205 | [B - The number on the board](https://codeforces.com/contest/835/problem/B) | [GNU C++14](./codeforces/835/B.cpp) | `greedy` `*1100` | Jun/13/2021 19:33 | 
