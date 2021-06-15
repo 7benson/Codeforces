@@ -12,7 +12,8 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-215 | [A - Good Number](https://codeforces.com/contest/365/problem/A) | [GNU C++14](./codeforces/365/A.cpp) | `implementation` `*1100` | Jun/15/2021 23:06 | 
+216 | [A - Good Number](https://codeforces.com/contest/365/problem/A) | [GNU C++14](./codeforces/365/A.cpp) | `implementation` `*1100` | Jun/15/2021 23:06 | 
+215 | [B - Weird Subtraction Process](https://codeforces.com/contest/946/problem/B) | [GNU C++14](./codeforces/946/B.cpp) | `math` `number theory` `*1100` | Jun/15/2021 22:41 | 
 214 | [B - Anton and Classes](https://codeforces.com/contest/785/problem/B) | [GNU C++14](./codeforces/785/B.cpp) | `greedy` `sortings` `*1100` | Jun/15/2021 21:57 | 
 213 | [A - Meeting of Old Friends](https://codeforces.com/contest/714/problem/A) | [GNU C++14](./codeforces/714/A.cpp) | `implementation` `math` `*1100` | Jun/14/2021 16:38 | 
 212 | [A - Alex and broken contest](https://codeforces.com/contest/877/problem/A) | [GNU C++14](./codeforces/877/A.cpp) | `implementation` `strings` `*1100` | Jun/14/2021 16:22 | 
