@@ -3797,5 +3797,21 @@
       "*1100"
     ],
     "timestamp": "Jun/18/2021 00:02"
+  },
+  "CF119740769": {
+    "contest_id": 478,
+    "language": "GNU C++14",
+    "path": "codeforces\\478\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Initial Bet",
+    "problem_url": "https://codeforces.com/contest/478/problem/A",
+    "submission_id": "CF119740769",
+    "submission_url": "https://codeforces.com/contest/478/submission/119740769",
+    "tags": [
+      "implementation",
+      "*1100"
+    ],
+    "timestamp": "Jun/18/2021 00:08"
   }
 }
