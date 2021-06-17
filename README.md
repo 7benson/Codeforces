@@ -12,8 +12,9 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-220 | [A - Testing Pants for Sadness](https://codeforces.com/contest/103/problem/A) | [GNU C++14](./codeforces/103/A.cpp) | `greedy` `implementation` `math` `*1100` | Jun/17/2021 18:04 | 
-219 | [B - Coat of Anticubism](https://codeforces.com/contest/667/problem/B) | [GNU C++14](./codeforces/667/B.cpp) | `constructive algorithms` `geometry` `*1100` | Jun/17/2021 17:18 | 
+221 | [A - Testing Pants for Sadness](https://codeforces.com/contest/103/problem/A) | [GNU C++14](./codeforces/103/A.cpp) | `greedy` `implementation` `math` `*1100` | Jun/17/2021 18:04 | 
+220 | [B - Coat of Anticubism](https://codeforces.com/contest/667/problem/B) | [GNU C++14](./codeforces/667/B.cpp) | `constructive algorithms` `geometry` `*1100` | Jun/17/2021 17:18 | 
+219 | [A - Kalevitch and Chess](https://codeforces.com/contest/7/problem/A) | [GNU C++14](./codeforces/7/A.cpp) | `brute force` `constructive algorithms` `*1100` | Jun/17/2021 14:55 | 
 218 | [B - Vanya and Books](https://codeforces.com/contest/552/problem/B) | [GNU C++14](./codeforces/552/B.cpp) | `implementation` `math` `*1200` | Jun/16/2021 19:44 | 
 217 | [A - Ilya and a Colorful Walk](https://codeforces.com/contest/1119/problem/A) | [GNU C++14](./codeforces/1119/A.cpp) | `greedy` `implementation` `*1100` | Jun/15/2021 23:21 | 
 216 | [A - Good Number](https://codeforces.com/contest/365/problem/A) | [GNU C++14](./codeforces/365/A.cpp) | `implementation` `*1100` | Jun/15/2021 23:06 | 
