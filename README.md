@@ -12,6 +12,7 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
+225 | [B - Middle Class](https://codeforces.com/contest/1334/problem/B) | [GNU C++14](./codeforces/1334/B.cpp) | `greedy` `sortings` `*1100` | Jun/18/2021 02:05 | 
 224 | [A - Initial Bet](https://codeforces.com/contest/478/problem/A) | [GNU C++14](./codeforces/478/A.cpp) | `implementation` `*1100` | Jun/18/2021 00:08 | 
 223 | [B - Yet Another Palindrome Problem](https://codeforces.com/contest/1324/problem/B) | [GNU C++14](./codeforces/1324/B.cpp) | `brute force` `strings` `*1100` | Jun/18/2021 00:02 | 
 222 | [A - Shovels and Swords](https://codeforces.com/contest/1366/problem/A) | [GNU C++14](./codeforces/1366/A.cpp) | `binary search` `greedy` `math` `*1100` | Jun/17/2021 23:48 | 
