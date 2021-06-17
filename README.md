@@ -12,6 +12,7 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
+222 | [A - Shovels and Swords](https://codeforces.com/contest/1366/problem/A) | [GNU C++14](./codeforces/1366/A.cpp) | `binary search` `greedy` `math` `*1100` | Jun/17/2021 23:48 | 
 221 | [A - Testing Pants for Sadness](https://codeforces.com/contest/103/problem/A) | [GNU C++14](./codeforces/103/A.cpp) | `greedy` `implementation` `math` `*1100` | Jun/17/2021 18:04 | 
 220 | [B - Coat of Anticubism](https://codeforces.com/contest/667/problem/B) | [GNU C++14](./codeforces/667/B.cpp) | `constructive algorithms` `geometry` `*1100` | Jun/17/2021 17:18 | 
 219 | [A - Kalevitch and Chess](https://codeforces.com/contest/7/problem/A) | [GNU C++14](./codeforces/7/A.cpp) | `brute force` `constructive algorithms` `*1100` | Jun/17/2021 14:55 | 
