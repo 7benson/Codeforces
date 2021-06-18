@@ -3849,6 +3849,25 @@
     ],
     "timestamp": "Jun/18/2021 02:05"
   },
+  "CF119773082": {
+    "contest_id": 1345,
+    "language": "GNU C++14",
+    "path": "codeforces\\1345\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Card Constructions",
+    "problem_url": "https://codeforces.com/contest/1345/problem/B",
+    "submission_id": "CF119773082",
+    "submission_url": "https://codeforces.com/contest/1345/submission/119773082",
+    "tags": [
+      "binary search",
+      "brute force",
+      "dp",
+      "math",
+      "*1100"
+    ],
+    "timestamp": "Jun/18/2021 14:08"
+  },
   "CF119774282": {
     "contest_id": 1324,
     "language": "GNU C++14",
