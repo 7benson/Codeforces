@@ -4101,6 +4101,25 @@
     ],
     "timestamp": "Jun/19/2021 14:19"
   },
+  "CF119975402": {
+    "contest_id": 651,
+    "language": "GNU C++14",
+    "path": "codeforces\\651\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Joysticks",
+    "problem_url": "https://codeforces.com/contest/651/problem/A",
+    "submission_id": "CF119975402",
+    "submission_url": "https://codeforces.com/contest/651/submission/119975402",
+    "tags": [
+      "dp",
+      "greedy",
+      "implementation",
+      "math",
+      "*1100"
+    ],
+    "timestamp": "Jun/19/2021 14:50"
+  },
   "CF119975838": {
     "contest_id": 1213,
     "language": "GNU C++14",
