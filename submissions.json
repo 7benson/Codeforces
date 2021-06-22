@@ -4171,5 +4171,22 @@
       "strings"
     ],
     "timestamp": "Jun/20/2021 16:14"
+  },
+  "CF120311145": {
+    "contest_id": 1407,
+    "language": "GNU C++14",
+    "path": "codeforces\\1407\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Ahahahahahahahaha",
+    "problem_url": "https://codeforces.com/contest/1407/problem/A",
+    "submission_id": "CF120311145",
+    "submission_url": "https://codeforces.com/contest/1407/submission/120311145",
+    "tags": [
+      "constructive algorithms",
+      "math",
+      "*1100"
+    ],
+    "timestamp": "Jun/22/2021 22:25"
   }
 }
