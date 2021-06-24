@@ -4439,5 +4439,22 @@
       "*1200"
     ],
     "timestamp": "Jun/24/2021 06:21"
+  },
+  "CF120407027": {
+    "contest_id": 1294,
+    "language": "GNU C++14",
+    "path": "codeforces\\1294\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Collecting Packages",
+    "problem_url": "https://codeforces.com/contest/1294/problem/B",
+    "submission_id": "CF120407027",
+    "submission_url": "https://codeforces.com/contest/1294/submission/120407027",
+    "tags": [
+      "implementation",
+      "sortings",
+      "*1200"
+    ],
+    "timestamp": "Jun/24/2021 08:19"
   }
 }
