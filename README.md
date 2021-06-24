@@ -12,6 +12,7 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
+258 | [A - XXXXX](https://codeforces.com/contest/1364/problem/A) | [GNU C++14](./codeforces/1364/A.cpp) | `brute force` `data structures` `number theory` `two pointers` `*1200` | Jun/24/2021 05:47 | 
 257 | [B - Kuriyama Mirai's Stones](https://codeforces.com/contest/433/problem/B) | [GNU C++14](./codeforces/433/B.cpp) | `dp` `implementation` `sortings` `*1200` | Jun/24/2021 05:16 | 
 256 | [A - Chewbaсca and Number](https://codeforces.com/contest/514/problem/A) | [GNU C++14](./codeforces/514/A.cpp) | `greedy` `implementation` `*1200` | Jun/24/2021 04:54 | 
 255 | [B - Young Explorers](https://codeforces.com/contest/1355/problem/B) | [GNU C++14](./codeforces/1355/B.cpp) | `dp` `greedy` `sortings` `*1200` | Jun/24/2021 04:39 | 
