@@ -12,6 +12,7 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
+281 | [C - Three Parts of the Array](https://codeforces.com/contest/1006/problem/C) | [GNU C++14](./codeforces/1006/C.cpp) | `binary search` `data structures` `two pointers` `*1200` | Jul/02/2021 12:42 | 
 280 | [B - Reverse Binary Strings](https://codeforces.com/contest/1437/problem/B) | [GNU C++14](./codeforces/1437/B.cpp) | `constructive algorithms` `greedy` `*1200` | Jul/01/2021 06:32 | 
 279 | [C - Book Reading](https://codeforces.com/contest/1213/problem/C) | [GNU C++14](./codeforces/1213/C.cpp) | `math` `*1200` | Jul/01/2021 06:08 | 
 278 | [C1 - k-LCM (easy version)](https://codeforces.com/contest/1497/problem/C1) | [GNU C++14](./codeforces/1497/C1.cpp) | `constructive algorithms` `math` `*1200` | Jul/01/2021 05:44 | 
