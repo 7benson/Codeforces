@@ -12,6 +12,7 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
+289 | [A - Diamond Miner](https://codeforces.com/contest/1495/problem/A) | [GNU C++14](./codeforces/1495/A.cpp) | `geometry` `greedy` `math` `sortings` `*1200` | Jul/04/2021 15:07 | 
 288 | [B - Make Them Equal](https://codeforces.com/contest/1154/problem/B) | [GNU C++14](./codeforces/1154/B.cpp) | `math` `*1200` | Jul/03/2021 07:56 | 
 287 | [B - Cat Cycle](https://codeforces.com/contest/1487/problem/B) | [GNU C++14](./codeforces/1487/B.cpp) | `math` `number theory` `*1200` | Jul/03/2021 07:20 | 
 286 | [D - Permutation Transformation](https://codeforces.com/contest/1490/problem/D) | [GNU C++14](./codeforces/1490/D.cpp) | `dfs and similar` `divide and conquer` `implementation` `*1200` | Jul/03/2021 06:49 | 
