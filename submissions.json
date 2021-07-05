@@ -5092,6 +5092,24 @@
     ],
     "timestamp": "Jul/05/2021 08:06"
   },
+  "CF121432684": {
+    "contest_id": 1536,
+    "language": "GNU C++14",
+    "path": "codeforces\\1536\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Prinzessin der Verurteilung",
+    "problem_url": "https://codeforces.com/contest/1536/problem/B",
+    "submission_id": "CF121432684",
+    "submission_url": "https://codeforces.com/contest/1536/submission/121432684",
+    "tags": [
+      "brute force",
+      "constructive algorithms",
+      "strings",
+      "*1200"
+    ],
+    "timestamp": "Jul/06/2021 05:22"
+  },
   "CF121433478": {
     "contest_id": 1133,
     "language": "GNU C++14",
