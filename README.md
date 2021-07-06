@@ -12,6 +12,7 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
+299 | [B - Equal Rectangles](https://codeforces.com/contest/1203/problem/B) | [GNU C++14](./codeforces/1203/B.cpp) | `greedy` `math` `*1200` | Jul/06/2021 06:44 | 
 298 | [C - Balanced Team](https://codeforces.com/contest/1133/problem/C) | [GNU C++14](./codeforces/1133/C.cpp) | `sortings` `two pointers` `*1200` | Jul/06/2021 05:56 | 
 297 | [B - Prinzessin der Verurteilung](https://codeforces.com/contest/1536/problem/B) | [GNU C++14](./codeforces/1536/B.cpp) | `brute force` `constructive algorithms` `strings` `*1200` | Jul/06/2021 05:22 | 
 296 | [B - Creating the Contest](https://codeforces.com/contest/1029/problem/B) | [GNU C++14](./codeforces/1029/B.cpp) | `dp` `greedy` `math` `*1200` | Jul/05/2021 08:06 | 
