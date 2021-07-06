@@ -5161,5 +5161,22 @@
       "*1200"
     ],
     "timestamp": "Jul/06/2021 06:56"
+  },
+  "CF121435332": {
+    "contest_id": 456,
+    "language": "GNU C++14",
+    "path": "codeforces\\456\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Fedya and Maths",
+    "problem_url": "https://codeforces.com/contest/456/problem/B",
+    "submission_id": "CF121435332",
+    "submission_url": "https://codeforces.com/contest/456/submission/121435332",
+    "tags": [
+      "math",
+      "number theory",
+      "*1200"
+    ],
+    "timestamp": "Jul/06/2021 07:08"
   }
 }
