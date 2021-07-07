@@ -5212,5 +5212,22 @@
       "*1200"
     ],
     "timestamp": "Jul/07/2021 15:52"
+  },
+  "CF121668624": {
+    "contest_id": 1543,
+    "language": "GNU C++14",
+    "path": "codeforces\\1543\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Exciting Bets",
+    "problem_url": "https://codeforces.com/contest/1543/problem/A",
+    "submission_id": "CF121668624",
+    "submission_url": "https://codeforces.com/contest/1543/submission/121668624",
+    "tags": [
+      "greedy",
+      "math",
+      "number theory"
+    ],
+    "timestamp": "Jul/08/2021 05:23"
   }
 }
