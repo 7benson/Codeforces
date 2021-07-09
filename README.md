@@ -12,6 +12,7 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
+311 | [B - Square Filling](https://codeforces.com/contest/1207/problem/B) | [GNU C++14](./codeforces/1207/B.cpp) | `constructive algorithms` `greedy` `implementation` `*1200` | Jul/09/2021 06:41 | 
 310 | [A - TL](https://codeforces.com/contest/350/problem/A) | [GNU C++14](./codeforces/350/A.cpp) | `brute force` `greedy` `implementation` `*1200` | Jul/09/2021 06:10 | 
 309 | [B - Game with string](https://codeforces.com/contest/1104/problem/B) | [GNU C++14](./codeforces/1104/B.cpp) | `data structures` `implementation` `math` `*1200` | Jul/09/2021 05:50 | 
 308 | [B - Belted Rooms](https://codeforces.com/contest/1428/problem/B) | [GNU C++14](./codeforces/1428/B.cpp) | `graphs` `implementation` `*1200` | Jul/09/2021 05:21 | 
