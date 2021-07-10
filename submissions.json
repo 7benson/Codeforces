@@ -5352,5 +5352,24 @@
       "*1200"
     ],
     "timestamp": "Jul/09/2021 06:41"
+  },
+  "CF121859751": {
+    "contest_id": 1538,
+    "language": "GNU C++14",
+    "path": "codeforces\\1538\\C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Number of Pairs",
+    "problem_url": "https://codeforces.com/contest/1538/problem/C",
+    "submission_id": "CF121859751",
+    "submission_url": "https://codeforces.com/contest/1538/submission/121859751",
+    "tags": [
+      "binary search",
+      "data structures",
+      "math",
+      "two pointers",
+      "*1300"
+    ],
+    "timestamp": "Jul/10/2021 06:02"
   }
 }
