@@ -5426,6 +5426,22 @@
     ],
     "timestamp": "Jul/10/2021 06:26"
   },
+  "CF121919616": {
+    "contest_id": 1547,
+    "language": "GNU C++14",
+    "path": "codeforces\\1547\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Shortest Path with Obstacle",
+    "problem_url": "https://codeforces.com/contest/1547/problem/A",
+    "submission_id": "CF121919616",
+    "submission_url": "https://codeforces.com/contest/1547/submission/121919616",
+    "tags": [
+      "implementation",
+      "math"
+    ],
+    "timestamp": "Jul/10/2021 20:16"
+  },
   "CF121944773": {
     "contest_id": 1547,
     "language": "GNU C++14",
