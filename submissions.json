@@ -5473,5 +5473,22 @@
       "greedy"
     ],
     "timestamp": "Jul/10/2021 21:02"
+  },
+  "CF122232943": {
+    "contest_id": 1547,
+    "language": "GNU C++14",
+    "path": "codeforces\\1547\\D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Co-growing Sequence",
+    "problem_url": "https://codeforces.com/contest/1547/problem/D",
+    "submission_id": "CF122232943",
+    "submission_url": "https://codeforces.com/contest/1547/submission/122232943",
+    "tags": [
+      "bitmasks",
+      "greedy",
+      "*1300"
+    ],
+    "timestamp": "Jul/12/2021 21:38"
   }
 }
