@@ -5547,5 +5547,21 @@
       "*1200"
     ],
     "timestamp": "Jul/13/2021 05:46"
+  },
+  "CF122257964": {
+    "contest_id": 285,
+    "language": "GNU C++14",
+    "path": "codeforces\\285\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Find Marble",
+    "problem_url": "https://codeforces.com/contest/285/problem/B",
+    "submission_id": "CF122257964",
+    "submission_url": "https://codeforces.com/contest/285/submission/122257964",
+    "tags": [
+      "implementation",
+      "*1200"
+    ],
+    "timestamp": "Jul/13/2021 05:55"
   }
 }
