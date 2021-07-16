@@ -5669,5 +5669,22 @@
       "*1200"
     ],
     "timestamp": "Jul/16/2021 07:03"
+  },
+  "CF122632019": {
+    "contest_id": 1185,
+    "language": "GNU C++14",
+    "path": "codeforces\\1185\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Email from Polycarp",
+    "problem_url": "https://codeforces.com/contest/1185/problem/B",
+    "submission_id": "CF122632019",
+    "submission_url": "https://codeforces.com/contest/1185/submission/122632019",
+    "tags": [
+      "implementation",
+      "strings",
+      "*1200"
+    ],
+    "timestamp": "Jul/16/2021 07:57"
   }
 }
